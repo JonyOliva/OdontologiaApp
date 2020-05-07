@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Marco",
+        "apellido": "Diaz",
+        "dni": "20561478"
+    },
+    {
+        "id": 2,
+        "nombre": "Kike",
+        "apellido": "Oliva",
+        "dni": "40257393"
+    },
+    {
+        "id": 3,
+        "nombre": "Daniel",
+        "apellido": "Orozco",
+        "dni": "30654982"
+    },
+    {
+        "id": 4,
+        "nombre": "Lucia",
+        "apellido": "Montes",
+        "dni": "22336547"
+    },
+    {
+        "id": 5,
+        "nombre": "Pancho",
+        "apellido": "Da Costa",
+        "dni": "50362987"
+    }
+]

@@ -1,0 +1,15 @@
+.b-border{
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #2471A3;
+    padding: 7px;
+  }
+
+.b-height{
+  height: 250px;
+}
+
+  .title{
+    color: #2471A3;
+    text-align: center;
+  }
